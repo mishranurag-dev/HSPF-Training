@@ -1,0 +1,10 @@
+Started Downloading the data at 2026-02-16T09:33:25.436504 and saving in MetData_20260215.wdm
+Station: Seattle, Latitude: 47.629605, Longitude: -122.348941, TimeZoneAdjustment: -8
+Constituent: ATEMP, Column Name:NLDAS_FORA0125_H_2_0_Tair:K, DSN: 1
+Constituent: PRECIP, Column Name:NLDAS_FORA0125_H_2_0_Rainf:mm, DSN: 2
+Station: Allahabad, Latitude: 25.43, Longitude: 81.84, TimeZoneAdjustment: 5.5
+Constituent: ATEMP, Column Name:GLDAS_NOAH025_3H_2_1_Tair_f_inst:K, DSN: 3
+Constituent: PRECIP, Column Name:GLDAS_NOAH025_3H_2_1_Rainf_f_tavg:mm/s, DSN: 4
+Station: Asmara, Latitude: 15.33, Longitude: 38.92, TimeZoneAdjustment: 3
+Constituent: ATEMP, Column Name:GLDAS_NOAH025_3H_2_1_Tair_f_inst:K, DSN: 5
+Constituent: PRECIP, Column Name:GLDAS_NOAH025_3H_2_1_Rainf_f_tavg:mm/s, DSN: 6
