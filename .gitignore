@@ -6,7 +6,7 @@
 *.out
 HSPF_Test.units.dbf
 *.log
-*.dbf
+
 Presentation/
 HSPF400/Reports*
 HSPF500/Reports*
